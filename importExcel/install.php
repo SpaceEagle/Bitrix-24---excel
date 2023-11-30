@@ -9,12 +9,6 @@ if($result['rest_only'] === false):?>
 	<?if($result['install'] == true):?>
 	<script>
 		BX24.init(function(){
-		    // BX24.callUnbind('onCrmProductAdd', 'https://advina.ru/bitrix24/movens/handler.php');
-            // BX24.callUnbind('onCrmProductUpdate', 'https://advina.ru/bitrix24/movens/handler.php');
-            // BX24.callUnbind('onCrmProductAdd', 'https://api.movens.ru/app1/handler.php');
-            // BX24.callUnbind('onCrmProductUpdate', 'https://api.movens.ru/app1/handler.php');
-            // BX24.callBind('onCrmProductAdd', 'https://api.movens.ru/app1/handler.php');
-            // BX24.callBind('onCrmProductUpdate', 'https://api.movens.ru/app1/handler.php');
             BX24.installFinish();
 		});
 	</script>
