@@ -1,6 +1,6 @@
 <?
-define('C_REST_CLIENT_ID','local.649c459d10c1c2.72515777');//Application ID
-define('C_REST_CLIENT_SECRET','tg7wIsakDZZifZHojvGskwOTvw5Kxy5KERyeTTjrxLZaLEUvDD');//Application key
+define('C_REST_CLIENT_ID','local.Application ID');//Application ID
+define('C_REST_CLIENT_SECRET','Application key');//Application key
 // or
 // define('C_REST_WEB_HOOK_URL','https://movens.bitrix24.ru/rest/83/e43ozbpn8zy40hco/');//url on creat Webhook
 
